@@ -104,4 +104,4 @@ Full source is private (production system with real clients). Live demo availabl
 
 © 2026 Rafael Soares Duarte. All rights reserved.
 
-Portfolio: https://rafael-soares-duarte.vercel.app
+Portfolio: https://rafaelduarte-portfolio.com
